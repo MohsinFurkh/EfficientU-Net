@@ -117,27 +117,10 @@ The proposed EfficientU-Net architecture consists of three main components:
 
 *Table 2: Results of the ablation study comparing different variants of the proposed architecture. The proposed EfficientU-Net with AC block achieves the best performance while maintaining computational efficiency. Standard deviations are shown in parentheses.*
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-@article{efficientunet2023,
-  title={EfficientU-Net: A Novel Deep Learning Method for Breast Tumor Segmentation},
-  author={[Your Names]},
-  journal={Neural Processing Letters},
-  year={2023},
-  doi={10.1007/s11063-023-11333-x}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Dataset
 
-The model was trained on the [Dataset Name] dataset. For access to the dataset, please contact [Contact Information].
+The model was trained on the BUSI and UDIAT datasets.
 
 ## Citation
 
@@ -152,3 +135,6 @@ If you use this implementation in your research, please cite:
   doi={10.1007/s11063-023-11333-x}
 }
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
