@@ -101,7 +101,7 @@ The proposed EfficientU-Net architecture consists of three main components:
 
 ### Qualitative Results
 
-![Segmentation Examples](EfficientU-Net/images/Fig-14(a).png)
+![Segmentation Examples](EfficientU-Net/images/Fig-14(a).jpg)
 *Figure 4: Segmentation results for the BUSI dataset: original images (Col 1), Ground Truth (Col 2), UNet (Col 3), UNet++ (Col 4), Attention UNet (Col 5), and the proposed EfficientU-Net (Col 6)*
 
 
