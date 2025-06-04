@@ -50,7 +50,7 @@ model.summary()
 
 ## Model Architecture
 
-![EfficientU-Net Architecture](images/efficientunet_architecture.png)
+![EfficientU-Net Architecture](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/EfficientU-Net.jpg)
 
 The proposed EfficientU-Net architecture consists of three main components:
 
@@ -82,12 +82,12 @@ The proposed EfficientU-Net architecture consists of three main components:
 
 ### Qualitative Results
 
-![Segmentation Examples](images/segmentation_examples.png)
+![Segmentation Examples](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Fig-12.png)
 *Figure 1: Sample segmentation results showing input image, ground truth, and model prediction.*
 
 ### Training Curves
 
-![Training Curves](images/training_curves.png)
+![Training Curves](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Fig-13(a).png)
 *Figure 2: Training and validation metrics over 50 epochs.*
 
 ### Ablation Study
