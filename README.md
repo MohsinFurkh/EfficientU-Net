@@ -50,7 +50,7 @@ model.summary()
 
 ## Model Architecture
 
-![EfficientU-Net Architecture](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/EfficientU-Net.jpg)
+![EfficientU-Net Architecture](EfficientU-Net/images/EfficientU-Net.jpg)
 
 The proposed EfficientU-Net architecture consists of three main components:
 
@@ -58,13 +58,13 @@ The proposed EfficientU-Net architecture consists of three main components:
    - Pre-trained on ImageNet
    - Extracts hierarchical features at different scales
    - Captures both low-level and high-level features
-   ![EfficientU-Net Architecture](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Encoder_EfficientU-Net.png)
+   ![EfficientU-Net Architecture](EfficientU-Net/images/Encoder_EfficientU-Net.png)
 
 2. **Atrous Convolution (AC) Block**:
    - Captures multi-scale contextual information
    - Uses parallel dilated convolutions with different rates
    - Preserves spatial resolution while expanding the receptive field
-   ![EfficientU-Net Architecture](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/AC_Block_EfficientU_Net.png)
+   ![EfficientU-Net Architecture](EfficientU-Net/images/AC_Block_EfficientU_Net.png)
 
 3. **Decoder**:
    - Progressive upsampling with skip connections
@@ -73,7 +73,7 @@ The proposed EfficientU-Net architecture consists of three main components:
 
 ## Results
 ### Training Curves
-![Training Curves](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Fig-12.png)
+![Training Curves](EfficientU-Net/images/Fig-12.png)
 *Figure 1: Training progress of the proposed model on BUSI dataset: dice coefficient(left) and dice loss (right) results for validation compared with UNet, UNet++, and Attention UNet*
 
 ### Box Plots
