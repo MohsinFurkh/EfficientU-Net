@@ -77,10 +77,10 @@ The proposed EfficientU-Net architecture consists of three main components:
 *Figure 1: Training progress of the proposed model on BUSI dataset: dice coefficient(left) and dice loss (right) results for validation compared with UNet, UNet++, and Attention UNet*
 
 ### Box Plots
-![Box Plots](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Fig-13(a).png)
+![Box Plots](EfficientU-Net/images/Fig-13(a).png)
 *Figure 2: Boxplots of Dice scores for the combined test samples of BUSI dataset and Dataset-B. Boxes indicate the score range of methods, the color line inside each box represents the median value, and all values outside the whiskers are considered outliers, marked with the dot symbol*
 
-![Box Plots](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Fig-13(b).png)
+![Box Plots](EfficientU-Net/images/Fig-13(b).png)
 *Figure 3: Boxplots of IoU scores for the combined test samples of BUSI dataset and Dataset-B. Boxes indicate the score range of methods, the color line inside each box represents the median value, and all values outside the whiskers are considered outliers, marked with the dot symbol*
 
 ### Quantitative Results
@@ -101,7 +101,7 @@ The proposed EfficientU-Net architecture consists of three main components:
 
 ### Qualitative Results
 
-![Segmentation Examples](https://github.com/MohsinFurkh/EfficientU-Net/raw/master/images/Fig-14(a).png)
+![Segmentation Examples](EfficientU-Net/images/Fig-14(a).png)
 *Figure 4: Segmentation results for the BUSI dataset: original images (Col 1), Ground Truth (Col 2), UNet (Col 3), UNet++ (Col 4), Attention UNet (Col 5), and the proposed EfficientU-Net (Col 6)*
 
 
